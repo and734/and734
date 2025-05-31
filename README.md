@@ -46,6 +46,4 @@ No recent blog posts available.
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-![image](https://github.com/user-attachments/assets/395fc5e4-d8af-45a6-abde-39b44e5d8d14)
-
 {}
