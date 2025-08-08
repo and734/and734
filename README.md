@@ -20,7 +20,7 @@ nodejs,react,py,java,django,azure,docker,c
 
 ## GitHub Stats
 
-📊 **Public Repositories:** 34  
+📊 **Public Repositories:** 52  
 👥 **Followers:** 0  
 🔗 **Following:** 6  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=and734&show_icons=true&theme=radical)
