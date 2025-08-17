@@ -67,12 +67,12 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
 ###
 
 <br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/and734/and734/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/and734/and734/output/dist/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/and734/and734/output/dist/github-contribution-grid-snake.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/and734/and734/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
