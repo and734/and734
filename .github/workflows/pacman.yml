@@ -17,8 +17,8 @@ jobs:
 
     steps:
       # Step 1: Crea la cartella 'dist' prima, così l'azione sa dove salvare il file.
-      - name: Create dist directory
-        run: mkdir -p dist
+      #- name: Create dist directory
+      #  run: mkdir -p dist
 
       # Step 2: Genera il file SVG di Pacman e salvalo direttamente dentro 'dist'.
       - name: Generate pacman-contribution-graph.svg
@@ -32,7 +32,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
           keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
