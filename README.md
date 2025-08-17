@@ -74,8 +74,12 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
 
 ###
 
+<!-- Animazione di Pacman -->
+![pacman animation](https://raw.githubusercontent.com/and734/and734/output/dist/pacman-contribution-graph.svg)
 
 
+
+###
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=and734.and734&"  />
 </div>
