@@ -1,53 +1,91 @@
-## Hi there! 👋
+<h2 align="left">Hi there! 👋 My name is Andrea Lamberti a passionate developer with a love for creating innovative solutions. I thrive on tackling complex challenges and turning ideas into reality!</h2>
 
-I'm Andrea Lamberti, a passionate developer with a love for creating innovative solutions. I thrive on tackling complex challenges and turning ideas into reality!
-
-## About Me
+### About Me
 
 Based in an undisclosed location, I'm a software developer focusing on web technologies and artificial intelligence. I enjoy collaborating on projects that push the boundaries of technology and creativity.
 
-## Skills & Technologies
 
-nodejs,react,py,java,django,azure,docker,c
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=and734&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=and734&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Top Projects
+###
 
-- [ai-search-tool](https://github.com/and734/ai-search-tool) - A tool for intelligent searching, built with TypeScript. 🌟 0 Stars | Language: TypeScript | Forks: 0 | Issues: 0
-- [intellidex](https://github.com/and734/intellidex) - A platform for indexing intelligent data. 🌟 0 Stars | Language: Unknown | Forks: 0 | Issues: 0
-- [Ai-web-search](https://github.com/and734/Ai-web-search) - A web application for enhanced AI searching. 🌟 0 Stars | Language: Unknown | Forks: 0 | Issues: 0
-- [Ai-turbo-search-web-app](https://github.com/and734/Ai-turbo-search-web-app) - A turbocharged search engine web app. 🌟 0 Stars | Language: Unknown | Forks: 0 | Issues: 0
-- [Fiscal-Compass](https://github.com/and734/Fiscal-Compass) - A financial management tool. 🌟 0 Stars | Language: TypeScript | Forks: 0 | Issues: 0
-
-## GitHub Stats
-
-📊 **Public Repositories:** 55  
-👥 **Followers:** 0  
-🔗 **Following:** 9  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=and734&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- ⭐️ Watched [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)  
-- ⭐️ Watched [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)  
-- ⭐️ Watched [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)  
-- ➕ Created [Ai-turbo-search-web-app](https://github.com/and734/Ai-turbo-search-web-app)  
-- 📦 Pushed updates to [Fiscal-Compass](https://github.com/and734/Fiscal-Compass)
-
-## Latest Blog Posts
-
-No recent blog posts available.
-
-## Connect with Me
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  
-  https://www.youtube.com/@AndreaLamberti
-  
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  
-  https://www.instagram.com/andr3alamb3rti
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+</div>
 
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>https://www.linkedin.com/in/andrea-lamberti-810a6312
+###
 
+<div align="left">
+  <a href="https://www.youtube.com/@AndreaLamberti" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/andr3alamb3rti/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/alambino69" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="wemakeopportunity@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/andrea-lamberti-810a6312/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/and734/and734/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/and734/and734/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/and734/and734/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/and734/and734/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=and734.and734&"  />
+</div>
+
+###
