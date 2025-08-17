@@ -26,6 +26,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
       
+      - name: Generate pacman animation
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: and734
+          file_name: dist/pacman-contribution-graph.svg
+      
+      - name: Deploy to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
