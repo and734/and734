@@ -79,12 +79,7 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
   </a>
 </p>
 
-<!-- Animazione Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/and734/and734/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/and734/and734/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/and734/and734/output/github-snake.svg">
-</picture>
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=and734.and734&"  />
