@@ -18,20 +18,20 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      # Genera l'animazione di Pac-Man
-      - name: Generate pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: and734
+      ## Genera l'animazione di Pac-Man
+      ##- name: Generate pacman contribution graph
+      ##  uses: abozanona/pacman-contribution-graph@main
+      ##  with:
+      ##   github_user_name: and734
 
       # Genera l'animazione di Snake
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: and734
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+      ##- name: Generate snake animation
+      ##  uses: Platane/snk@v3
+      ##  with:
+      ##   github_user_name: and734
+      ##    outputs: |
+      ##      dist/github-snake.svg
+      ##      dist/github-snake-dark.svg?palette=github-dark
 
       # Carica TUTTI i file generati (Pac-Man e Snake) sul branch 'output'
       - name: Push animation files to the output branch
