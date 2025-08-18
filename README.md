@@ -1,4 +1,7 @@
-<h2 align="center">Hi there! 👋 My name is Andrea Lamberti a passionate developer with a love for creating innovative solutions. I thrive on tackling complex challenges and turning ideas into reality!</h2>
+<div align="center">
+  <h1>Hi there, I'm Andrea Lamberti 👋</h1>
+  <p>I'm a passionate developer with a love for creating innovative solutions.<br>I thrive on tackling complex challenges and turning ideas into reality!</p>
+</div>
 
 ### About Me
 
