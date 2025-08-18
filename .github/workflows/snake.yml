@@ -29,21 +29,21 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Step 3: Genera l'animazione di Pacman (la crea nella cartella principale con un nome di default)
-      - name: Generate pacman animation
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: and734
+      #- name: Generate pacman animation
+      #  uses: abozanona/pacman-contribution-graph@main
+      #  with:
+      #    github_user_name: and734
 
       # Step 4: Sposta il file di Pacman appena creato dentro la cartella 'dist'
-      - name: Move pacman animation to dist folder
-        run: |
-          mv pacman-contribution-graph.svg dist/
+      #- name: Move pacman animation to dist folder
+      # run: |
+      #    mv pacman-contribution-graph.svg dist/
 
       # Step 5: Invia l'intera cartella 'dist' (con tutti i file) al branch 'output'
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      #- name: Deploy to GitHub Pages
+      #  uses: crazy-max/ghaction-github-pages@v4
+      #  with:
+      #    target_branch: output
+      #    build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
