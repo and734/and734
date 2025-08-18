@@ -3,7 +3,7 @@
   <p>I'm a passionate developer with a love for creating innovative solutions.<br>I thrive on tackling complex challenges and turning ideas into reality!</p>
 </div>
 
-<div align="center"> ### About Me
+<div align="center"> <h1> About Me </h1>
 
 Based in an undisclosed location, I'm a software developer focusing on web technologies and artificial intelligence. I enjoy collaborating on projects that push the boundaries of technology and creativity.
 
