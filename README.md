@@ -75,6 +75,16 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/and734/and734/output/pacman-contribution-graph.svg">
 </picture>
 
+        <section id="book-hook" class="text-center mt-12 py-6">
+            <h2 class="text-2xl font-bold text-[#1A237E] mb-4">Ready to read the beginning?</h2>
+            <a href="https://bitt.ly/tagalogprotocolenglish" class="bg-[#4CAF50] hover:bg-[#66BB6A] text-white font-bold py-3 px-8 rounded-full transition-colors duration-300 shadow-lg">
+                Continue reading the story
+            </a>
+            <p class="text-sm text-[#1A237E] mt-4 opacity-75">
+                <!-- Change the href="#" attribute above to link to your book -->
+                (You can change this link to point to your book.)
+            </p>
+        </section>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
