@@ -75,14 +75,13 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/and734/and734/output/pacman-contribution-graph.svg">
 </picture>
 
-<a href="https://www.amazon.it/dp/B0FR9CMVJZ/" target="_blank">
-  Tagalog Protocol English Version
-</a>
-
 <a href="https://www.amazon.it/dp/B0FQ3LY1FY/" target="_blank">
-  Tagalog Protocol Italian
+  <img src="https://img.shields.io/badge/Acquista%20il%20mio%20libro-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon button" />
 </a>
 
+<a href="https://www.amazon.it/dp/B0FR9CMVJZ/" target="_blank">
+  <img src="https://img.shields.io/badge/Acquista%20il%20mio%20libro-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon button" />
+</a>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=500&color=20F7C8&center=true&vCenter=true&width=650&lines=Ciao,+sono+Andrea;Sono+uno+sviluppatore+Full-Stack;Benvenuto+nel+mio+profilo+GitHub!" alt="Typing SVG" />
