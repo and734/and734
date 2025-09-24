@@ -75,7 +75,13 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/and734/and734/output/pacman-contribution-graph.svg">
 </picture>
 
+<a href="https://www.amazon.it/dp/B0FR9CMVJZ/" target="_blank">
+  Continue reading the story
+</a>
 
+<a href="https://www.amazon.it/dp/B0FQ3LY1FY/" target="_blank">
+  Continue reading the story
+</a>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
