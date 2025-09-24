@@ -76,11 +76,11 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
 </picture>
 
 <a href="https://www.amazon.it/dp/B0FR9CMVJZ/" target="_blank">
-  Continue reading the story
+  Tagalog Protocol English Version
 </a>
 
 <a href="https://www.amazon.it/dp/B0FQ3LY1FY/" target="_blank">
-  Continue reading the story
+  Tagalog Protocol Italian
 </a>
 
 <p align="center">
