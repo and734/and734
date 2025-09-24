@@ -76,7 +76,7 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
 </picture>
 
 <a href="https://amzn.to/48xgjhE" target="_blank">
-  <img src="https://img.shields.io/badge/Acquista%20il%20mio%20libro-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon button" />
+  <img src="https://img.shields.io/badge/Buy%20my%20Book-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon button" />
 </a>
 
 <a href="https://www.amazon.it/dp/B0FR9CMVJZ/" target="_blank">
