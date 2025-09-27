@@ -96,5 +96,9 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=and734.and734&"  />
 </div>
-
-###
+<div align="center">
+  <a href="https://and734.github.io/strixhalo/" target="_blank">
+ <img src="https://img.shields.io/badge/AMD%20Strix%20Halo%20Research-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AMD STRIX HALO" />
+</a>
+</div>
+  ###
