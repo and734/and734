@@ -69,7 +69,7 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
     <img src="https://img.shields.io/static/v1?message=Tagalog&logo=Tagalog&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Tagalog logo"  />
   </a>
   <a href="https://b0mjna3w8zx0-d.space.z.ai/"_blank">
-    <img src="https://img.shields.io/static/v1?message=Tagalog&logo=Tagalog&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Elias e la pioggia"  />
+    <img src="https://img.shields.io/static/v1?message=Elias&logo=Elias&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Elias e la pioggia"  />
   </a>
 </div>
 
