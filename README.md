@@ -78,11 +78,11 @@ Based in an undisclosed location, I'm a software developer focusing on web techn
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/and734/and734/output/pacman-contribution-graph.svg">
 </picture>
 
-<a href="https://amzn.to/48xgjhE" target="_blank">
+<a href="https://www.amazon.it/stores/Andrea-Lamberti/author/B0FTZJ7YK5?ref=ap_rdr&shoppingPortalEnabled=true" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20my%20Book-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon button" />
 </a>
 
-<a href="https://amzn.to/4gOjmEj" target="_blank">
+<a href="https://www.amazon.it/stores/Andrea-Lamberti/author/B0FTZJ7YK5?ref=ap_rdr&shoppingPortalEnabled=true" target="_blank">
   <img src="https://img.shields.io/badge/Acquista%20il%20mio%20libro-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon button" />
 </a>
 <p align="center">
